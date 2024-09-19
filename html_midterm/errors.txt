@@ -1,4 +1,6 @@
-﻿Find_errors_2.html
+﻿Raphaelle L. Julian E. Ellyse J.
+
+Find_errors_2.html
 1. (Raphaelle L) LINE 1 added Doctype
 2. (Raphaelle L) LINE 2 changed “language” to lang
 3.  (Raphaelle L) LINE 4 added <meta charset="UTF-8">
