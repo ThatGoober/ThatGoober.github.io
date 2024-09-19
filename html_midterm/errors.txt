@@ -1,0 +1,116 @@
+﻿Find_errors_2.html
+1. (Raphaelle L) LINE 1 added Doctype
+2. (Raphaelle L) LINE 2 changed “language” to lang
+3.  (Raphaelle L) LINE 4 added <meta charset="UTF-8">
+4. (Raphaelle L) LINE 9 added <h1> closing tag
+5. (Raphaelle L) LINE 11 added <p> opening tag
+6. (Raphaelle L) LINE 13 changed <ol> to <ul>
+7. (Raphaelle L) LINE 19 changed </li> to <li>
+8. (Raphaelle L) LINE 26 added </p> closing tag
+9. (Raphaelle L) LINE 28 added “alt="Image"” to img tag
+10. (Raphaelle L) LINE 28 changed “Image.png” to “image.jpg”
+11. (Raphaelle L) LINE 30 changed </img> closing tag to </a> closing tag
+12. (Raphaelle L) LINE 39 corrected <td> closing tag to </td>
+13. (Raphaelle L) LINE 45 added missing </table> closing tag
+14. (Raphaelle L) LINE 46 changed “source” to “src” in image tag
+15. (Raphaelle L) LINE 46 changed “jpeg” to “jpg” in image tag
+16. (Raphaelle L) LINE 48 added <p></p> tag to lose paragraph text
+17. (Raphaelle L) LINE 48 added <s></s> tag to make text strikethrough
+18. (Raphaelle L) LINE 50 replaced “bgcolor=”lightgray”” with “style="background-color:lightgray"”
+19. (Raphaelle L) LINE 52 replaced “    <input type="button" value="Click me">” to “<button type="button">Click Me</button>”
+20. (Raphaelle L) LINE 54 added missing → to comment
+21. (Raphaelle L) LINE 56 added missing </a> closing tag
+22. (Raphaelle L) LINE 58 changed <em> tag to <u> tag
+23. (Raphaelle L) LINE 58 positioned <u> tag to be inside <p></p> tag
+24. (Raphaelle L) LINE 61 changed <li></li> tag to <dt></dt> tag
+25. (Raphaelle L) LINE 62 changed <li></li> tag to <dd></dd> tag
+26. (Raphaelle L) LINE 64 changed </h3> closing tag to </h2> closing tag
+
+
+
+Find_errors_2.html
+1. (Julian E.) All code improperly spaced and formatted, cleaned it up
+2. (Julian E.) LINE 3 No closing head tag, added one on LINE 6
+3. (Julian E.) LINE 6 No closing body tag, added one on LINE 16
+4. (Julian E.) LINE 6 missing closing bracket for body opening tag
+5. (Julian E.) LINE 6 <html> opening tag placed after head and body tag, moved to LINE 2
+6. (Julian E.) LINE 7 missing closing tag for <div>
+7. (Julian E.) LINE 8 missing closing tag for <em>
+8. (Julian E.) LINE 8 missing closing tag for <p>
+9. (Julian E.) LINE 10 missing forward slash in closing tag
+10. (Julian E.) LINE 10 improper file name for image_2
+11. (Julian E.) LINE 10 missing directory for image, changed to src so image would show
+12. (Julian E.) LINE 12 added <h2> opening tag
+13. (Julian E. ) LINE 14 added <p> opening tag
+14. (Julian E.) LINE 15 removed redundant “<>” tags, changed to comment tags “<--”
+15. (Julian E.) LINE 16 missing “l” in closing html tag
+
+
+
+Ellyse Jensen (all corrections below)
+
+Errors on page 1
+1. Initialize the document with DOCTYPE (line 1)
+2. <head> should be after Html initialization (line 2)
+3. <html language=”en”> should be <html lang=”en”> (line 4)
+4. Missing </head> closing tag (line 7)
+5. Unclosed <h1> (line 9)
+6. Unopened <p> (line 11)
+7. Closed </li> instead of open <li> (line 19)
+8. Ordered list should be closed with </ol> instead of </ul> (line 24)
+9. Unclosed </p> (line 26)
+10. Missing <alt> (line 28)
+11. <a attribute should be closed with </a> (line 30)
+12. Table data 25 should be closed with </td> (line 39)
+13. Table needs to be closed with </table> (line 45)
+14. <img attribute calls for src= not “source =” (line 46)
+15. Paragraph must be initialized with <p> (line 48)
+16. Paragraph must be closed with </p> (line 48)
+17. Missing strikethrough command nested in paragraph <s> and </s> (line 48)
+18. Missing <p closing tag > (line 50)
+19. Cant initialize background color within a paragraph (line 50)
+20. Wrong comment syntax, requires closing → (line 54)
+21. Missing link and closing </a>, Link outside of closing tag (line 56)
+22. </em> nested incorrectly outside of </p>  (line 58)
+23. <dl> tag requires <dt> and <dd> tags instead of <li> (line 61 and 62)
+24. Unclosed <h2> tag (line 64)
+25. Incorrect heading using both <h2> and </h3> (line 64)
+
+
+
+
+
+
+
+
+
+
+Errors on page 2
+
+
+1. Missing <html lang= “eng”> initialization (line 2)
+2. <Head> tag is unclosed (line 2)
+3. <h1> tag should be used after <body> instead of inside <head> (line 4)
+4. <body tag is missing closing > (line 5)
+5. <html> incorrect placement should be on line 1 instead of inside <body> (line 6)
+6. <div> tag is unclosed (line 7)
+7. <strong tag is unclosed (line 8)
+8. <p> tag is unclosed (line 8)
+9. <img> attribute requires src instead of href (line 10)
+10. <img> requires alt tag (line 10)
+11. </h2> is present without opening tag <h2> (line 12)
+12. <h2> tag is inside <p> tag, should be outside of paragraph (line 12)
+13. Missing <p> opening tag (line 14)
+14. <this is a comment> is using wrong syntax, comments don't use <>, they require <!-- → instead (line 15)
+15. Comments should be outside of tags (line 15)
+16. </body> should be closed (line 15)
+17. Closing tag should be </html> instead of </htm> (line 16)[a]
+
+
+
+
+
+
+
+
+[a]elly
