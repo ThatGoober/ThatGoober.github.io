@@ -1,0 +1,83 @@
+/* What is up, gamer? Below is a general stylesheet for the gamer banner! */
+
+body {
+    margin: 0;
+  }
+
+  html {
+    font-family: 'Helvetica neue', Arial, 'sans serif';
+    font-size: 10px;
+    background-color: #ccc;
+
+  }
+  h2 {
+    font-size: 2em;
+    line-height: 0.5em;
+  }
+  p {
+    margin: 0;
+  }
+  .card {
+    width: 35em;
+    height: 22em;
+    margin: 5em auto;
+    background-color: red;
+    border: 0.2em solid black;
+    border-radius: 1.5em;
+  }
+  .card article{
+    height: 11em;
+    background-color: rgb(0, 0, 0,0.6);
+  }
+  .card article img {
+    max-height: 100%;
+    float: right;
+  }
+  article p {
+    padding:1em;
+    color:white
+  }
+  .card footer {
+    height: 3.125em;
+    border-radius: 0 0 1.5em 1.5;
+
+  }
+  .card header{
+    height: 3.125em;
+    border-radius: 1.5em 1.5em 0 0;
+  }
+  header, footer{
+    height:3em;
+    padding:1em;
+  }
+  .card2 {
+    width: 35em;
+    height: 22em;
+    margin: 5em auto;
+    background-color: blueviolet;
+    border: 0.2em solid black;
+    border-radius: 1.5em;
+  }
+  .card2 article{
+    height: 11em;
+    background-color: rgb(0, 0, 0,0.6);
+  }
+  .card2 article img {
+    max-height: 100%;
+    float: right;
+  }
+  article p {
+    padding:1em;
+    color:white
+  }
+  .card2 footer {
+    height: 3.125em;
+    border-radius: 0 0 1.5em 1.5;
+
+  }
+  .card2 header{
+    height: 3.125em;
+    border-radius: 1.5em 1.5em 0 0;
+  }
+  
+
