@@ -1,0 +1,69 @@
+#parent{position: relative; width: 500px; height: 500px}
+html {
+    font-family: 'Helvetica neue', Arial, 'sans serif', 'Comic Sans MS';
+}
+.menu{
+    border: 7.5px solid; color: blue;
+    border-radius: 10px;
+    background: linear-gradient(white, rgb(179, 179, 179)); 
+    width: 200px; 
+    height: 400px; 
+    position: absolute; 
+    top: 20px; left: 20px; z-index: 2;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 15px;
+    p1{
+        margin-top: 10px;
+        font-family: 'Helvetica neue';
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 1px;
+    }
+    p2{
+        font-family: 'Helvetica neue';
+        font-size: 15px;
+        font-weight: normal;
+    }
+    
+}
+.lowmenu{
+    border: 7.5px solid; color: blue;
+    border-radius: 10px;
+    background: linear-gradient(white, rgb(179, 179, 179)); 
+    width: 900px; 
+    height: 150px; 
+    position: absolute; 
+    top: 480px; left: 20px; z-index: 2;
+    p2{
+        font-family: 'Helvetica neue';
+        font-size: 20px;
+        font-weight: bold;
+    }
+    p3{
+        font-family: 'Helvetica neue';
+        font-size: 90px;
+        font-weight: bold;
+        font-style: italic;
+    }
+}
+.deal{
+    background: linear-gradient(yellow, rgb(255, 255, 174));
+    width: 200px;
+    height: 140px;
+    position: absolute;
+    top: 410px; left: 700px; z-index: 3;
+    text-align: center;
+    p{
+        font-family: 'Comic Sans MS';
+        font-size: 30px;
+        font-weight: bold;
+        font-style: italic;
+    }
+}
+#parent img{position: absolute; width: 1000px; height: 667px; z-index: 1;}
+#options img {
+    position: absolute;
+    top: 320px; left: 0px; 
+    width: 200px; height: 60px; z-index: 4;
+}
