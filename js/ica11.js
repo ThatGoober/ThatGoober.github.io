@@ -37,3 +37,30 @@ button.addEventListener('click', () => {
     jobentry();
     tellFortune(x,y,z,n);
 })
+
+
+
+function calculateDogAge(puppyAge){
+    var humanYear = puppyAge * 7
+    document.getElementById("dogThing").innerHTML = humanYear;
+}
+
+calculateDogAge(5);
+calculateDogAge(2);
+calculateDogAge(8);
+
+function reverseNum(no){
+    reversedNum = no.toString().split('').reverse().join('');
+    document.getElementById('numberThing').innerHTML = reversedNum;
+}
+
+reverseNum(6354);
+reverseNum(1806);
+
+function alphaSort(words){
+    sortedWord = words.toString().split('').sort().join('')
+    document.getElementById('wordThing').innerHTML = sortedWord;
+}
+
+alphaSort('jomama');
+alphaSort('interestingly');
