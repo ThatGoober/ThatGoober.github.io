@@ -6,11 +6,11 @@ const overlay = document.querySelector('.overlay');
 
 /* Declaring the array of image filenames */
 
-const img_Names = ['../img/pic1.jpg','../img/pic2.jpg','../img/pic3.jpg','../img/pic4.jpg','../img/pic5.jpg'];
+const img_Names = ['../img/pic1.png','../img/pic2.png','../img/pic3.png','../img/pic4.png','../img/pic5.png'];
 
 /* Declaring the alternative text for each image file */
 
-const img_Alts = ['eye','rock','flower','egypt','butterfly'];
+const img_Alts = ['an orange robot','a shiny packet','a drone above text','a calm window scene','a drone from behind'];
 
 /* Looping through images */
 for(let i = 0; i < img_Names.length; i++){
@@ -26,9 +26,16 @@ for(let i = 0; i < img_Names.length; i++){
 
 /* Wiring up the Darken/Lighten button */
 
-btn.addEventListener('click',darken);
+let toggle = false;
 
-function darken(){
-    let x = document.getElementsByClassName('overlay');
-    x.style.color = "green";
-}
+btn.addEventListener('click', () =>{
+    if(!toggle){
+        overlay.style.backgroundColor = "rgba(0,0,0,0.5)";
+        toggle = true;
+    }
+    else{
+        overlay.style.backgroundColor = "rgba(0,0,0,0.0)";
+        toggle = false;
+    }
+});
+
