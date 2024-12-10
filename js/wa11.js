@@ -21,7 +21,6 @@ for(let i = 0; i < img_Names.length; i++){
     newImage.addEventListener('click',() =>{
         displayedImage.setAttribute('src',img_Names[i]);
     });
-    
 }
 
 /* Wiring up the Darken/Lighten button */

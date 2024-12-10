@@ -24,3 +24,5 @@ function result() {
   let newStory = storyText.replace('xItem',xItem);
   if(customName.value !== '') {
     const name = customName.value;
+  }
+}

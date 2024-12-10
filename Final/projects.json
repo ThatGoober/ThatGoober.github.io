@@ -1,0 +1,48 @@
+{
+    "projects": [{
+        "name": "THE LAST OF US",
+        "subdomain": "TheLastofUs",
+        "category": "blender",
+        "subtitle": "Blender Render",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis felis maximus, faucibus mi in, convallis eros. In vulputate tincidunt lacus, nec efficitur arcu mollis quis. Cras rutrum magna elit, vel bibendum eros mattis et. Vestibulum nec neque ut libero consequat sollicitudin vitae non turpis. Sed sollicitudin orci ac lorem varius sagittis. Ut eu enim mi. Sed bibendum quis nisi a feugiat. Cras nec facilisis ante, vitae rutrum elit. Sed sit amet iaculis enim, a semper nisl. Ut ornare ex erat. Aliquam ultrices justo hendrerit turpis congue, eget posuere enim volutpat. Fusce nunc eros, lobortis ullamcorper nulla nec, maximus ultricies ipsum. In et tempor augue, id imperdiet lacus. Maecenas tincidunt metus nec ligula pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "mainimg": "pic4.png",
+        "video": ["False"],
+        "images": ["pic4.png","pic2.png"]
+
+},  {   "name": "YARAS",
+        "subdomain": "YARAS",
+        "category": "blender",
+        "subtitle": "Blender Render",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis felis maximus, faucibus mi in, convallis eros. In vulputate tincidunt lacus, nec efficitur arcu mollis quis. Cras rutrum magna elit, vel bibendum eros mattis et. Vestibulum nec neque ut libero consequat sollicitudin vitae non turpis. Sed sollicitudin orci ac lorem varius sagittis. Ut eu enim mi. Sed bibendum quis nisi a feugiat. Cras nec facilisis ante, vitae rutrum elit. Sed sit amet iaculis enim, a semper nisl. Ut ornare ex erat. Aliquam ultrices justo hendrerit turpis congue, eget posuere enim volutpat. Fusce nunc eros, lobortis ullamcorper nulla nec, maximus ultricies ipsum. In et tempor augue, id imperdiet lacus. Maecenas tincidunt metus nec ligula pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "mainimg": "pic3.png",
+        "video": ["False"],
+        "images": ["pic5.png","pic6.png","pic7.png"]
+
+},  {   "name": "BSI",
+        "subdomain": "BSI",
+        "category": "blender",
+        "subtitle": "Blender Render",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis felis maximus, faucibus mi in, convallis eros. In vulputate tincidunt lacus, nec efficitur arcu mollis quis. Cras rutrum magna elit, vel bibendum eros mattis et. Vestibulum nec neque ut libero consequat sollicitudin vitae non turpis. Sed sollicitudin orci ac lorem varius sagittis. Ut eu enim mi. Sed bibendum quis nisi a feugiat. Cras nec facilisis ante, vitae rutrum elit. Sed sit amet iaculis enim, a semper nisl. Ut ornare ex erat. Aliquam ultrices justo hendrerit turpis congue, eget posuere enim volutpat. Fusce nunc eros, lobortis ullamcorper nulla nec, maximus ultricies ipsum. In et tempor augue, id imperdiet lacus. Maecenas tincidunt metus nec ligula pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "mainimg": "pic1.png",
+        "video": ["False"],
+        "images": ["pic8.png","pic9.png"]
+},  {
+        "name": "LOST TO THE ZONE",
+        "subdomain": "LostToTheZone",
+        "category": "film",
+        "subtitle": "Student Film",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis felis maximus, faucibus mi in, convallis eros. In vulputate tincidunt lacus, nec efficitur arcu mollis quis. Cras rutrum magna elit, vel bibendum eros mattis et. Vestibulum nec neque ut libero consequat sollicitudin vitae non turpis. Sed sollicitudin orci ac lorem varius sagittis. Ut eu enim mi. Sed bibendum quis nisi a feugiat. Cras nec facilisis ante, vitae rutrum elit. Sed sit amet iaculis enim, a semper nisl. Ut ornare ex erat. Aliquam ultrices justo hendrerit turpis congue, eget posuere enim volutpat. Fusce nunc eros, lobortis ullamcorper nulla nec, maximus ultricies ipsum. In et tempor augue, id imperdiet lacus. Maecenas tincidunt metus nec ligula pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "mainimg": "pic10.png",
+        "video": ["True"],
+        "images": ["pic11.png","pic12.png"]
+}, {
+        "name": "DEMO REEL",
+        "subdomain": "DemoReel",
+        "category": "film",
+        "subtitle": "Personal Film",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis felis maximus, faucibus mi in, convallis eros. In vulputate tincidunt lacus, nec efficitur arcu mollis quis. Cras rutrum magna elit, vel bibendum eros mattis et. Vestibulum nec neque ut libero consequat sollicitudin vitae non turpis. Sed sollicitudin orci ac lorem varius sagittis. Ut eu enim mi. Sed bibendum quis nisi a feugiat. Cras nec facilisis ante, vitae rutrum elit. Sed sit amet iaculis enim, a semper nisl. Ut ornare ex erat. Aliquam ultrices justo hendrerit turpis congue, eget posuere enim volutpat. Fusce nunc eros, lobortis ullamcorper nulla nec, maximus ultricies ipsum. In et tempor augue, id imperdiet lacus. Maecenas tincidunt metus nec ligula pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "mainimg": "pic15.png",
+        "video": ["True"],
+        "images": ["pic14.png","pic13.png"]
+}]
+}
